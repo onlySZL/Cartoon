@@ -1,0 +1,100 @@
+.login {
+  position: relative;
+  top: -6vw;
+  left: 15vw;
+  font-size: 4vw;
+  border-radius: 3vw;
+  background-image: url(/images/img/Home/搜索.png);
+  background-size: 8vw;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-color: #f7f9fa;
+  outline: none;
+  border: none;
+  width: 50vw;
+  height: 8vw;
+  padding-left: 5vw;
+  padding-right: 8vw;
+}
+
+.logo {
+  width: 9vw;
+  height: 9vw;
+  position: relative;
+  top: 2vw;
+  left: 3vw;
+}
+.guding {
+  width: 100vw;
+  height: 15vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: white;
+  position: relative;
+}
+.history{
+  display: flex;
+  position: absolute;
+  top: 20vw;
+  left: 4vw;
+}
+.second{
+  margin-left: 3vw;
+  margin-top: 3vw;
+}
+.youxuan {
+  position: relative;
+  top: 10vw;
+  left: 1vw;
+
+}
+.xuan {
+  color: rgb(113, 113, 113);
+  margin-left: 4vw;
+  font-size: 4vw;
+  text-align: center;
+  line-height: 1;
+  background-color: rgb(242, 242, 242);
+}
+h1{
+  font-size: 5vw;
+}
+.delete{
+  position: absolute;
+  left: 87vw;
+  top: 22vw;
+}
+.third{
+  margin-top: 25vw;
+  margin-left: 4vw;
+}
+.logo2{
+  height: 13.33333vw;
+  width: 13.33333vw;
+  border-radius: 15%;
+}
+.cartoon{
+  display: inline-flex;
+  margin-bottom: 3vw;
+  margin-right: 13vw;
+}
+.cartoon2{
+   margin-top: 5vw;
+ 
+}
+.cartoon3{
+  display: inline-flex;
+}
+/* .cartoon3{
+  display: flex;
+  margin-right: 20vw;
+} */
+p{
+  font-size: 4vw;
+  margin-bottom: 2vw;
+  margin-top: 2vw;
+  margin-left: 2vw;
+  color: black;
+}

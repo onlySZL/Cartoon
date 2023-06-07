@@ -1,0 +1,91 @@
+.logo {
+  width: 20vw;
+  height: 20vw;
+  float: left;
+  border-radius: 50%;
+}
+.login {
+  font-size: 6.5vw;
+  margin-left: 3vw;
+  margin-top: 6vw;
+}
+.zuofloat {
+  display: flex;
+  align-items: center;
+  background-color: #ffe120;
+  width: 100vw;
+  height: 30vw;
+}
+.shujia {
+  display: flex;
+  margin-top: -8vw;
+  margin-left: 5vw;
+}
+.ours {
+  display: flex;
+  margin-top: 3vw;
+  justify-content: space-around;
+  margin-bottom: 5vw;
+}
+.yuedu {
+  font-size: 4.5vw;
+}
+.guanzhu {
+  font-size: 4.5vw;
+}
+.shezhi {
+  margin-left: 30vw;
+  font-size: 4.5vw;
+}
+.nothing{
+    width: 100vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quit{
+  color: black;
+}
+.pic{
+  width: 29vw;
+  height: 41vw;
+  margin-left: 3vw;
+  margin-bottom: 3vw;
+  border-radius: 1vw;
+  background-image: 100%;
+}
+.no{
+ float: left;
+ position: relative;
+}
+.font{
+ font-size: 3vw;
+ margin-left: 3vw;
+ margin-bottom: 5vw;
+ color: black;
+}
+.you {
+  width: 12vw;
+  height:6vw;
+  line-height: 6vw;
+  text-align: center;
+  border-radius: 5vw;
+  font-size: 3.5vw;
+  background: #fde23d;
+  font-weight: bold;
+  color: #442509;
+  border: none;
+  position: absolute;
+  top: 50vw;
+  left: 20vw;
+}
+.mint-tab-item {
+  display: block;
+  padding: 3vw 0 ;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-decoration: none;
+  height: 12vw !important;
+}

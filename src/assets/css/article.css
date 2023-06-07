@@ -1,0 +1,132 @@
+.bjtp {
+  width: 100vw;
+  height: 57vw;
+}
+.js p {
+  color: white;
+  font-size: 5vw;
+  margin-bottom: 3vw;
+}
+.js ul li {
+  color: white;
+  font-size: 3.5vw;
+}
+.js {
+  margin-top: -15vw;
+  margin-left: 4vw;
+}
+.you {
+    width: 16vw;
+    padding: 0 1.8666666666666667vw;
+    height:8vw;
+    line-height: 7.2vw;
+    text-align: center;
+    border-radius: 6.933333333333334vw;
+    font-size: 3.466666666666667vw;
+    background: #fde23d;
+    font-weight: bold;
+    border: none;
+    margin-top: 1vw;
+    margin-left: 2vw;
+}
+.guanzhu {
+  margin-top: -10vw;
+  margin-left: 79vw;
+}
+.qi {
+  vertical-align: top;
+  box-sizing: border-box;
+  padding: 0vw 2.1333333333333333vw;
+  width: auto;
+  font-size: 3.2vw;
+  line-height: 5.466666666666667vw;
+  background: #f5f5f5;
+  color: #333;
+  margin-right: 2.1333333333333333vw;
+  text-align: center;
+  border-radius: 2.933333333333333vw;
+  display: inline-block;
+  margin-top: 10vw;
+  margin-left: 3vw;
+}
+.details {
+  font-size: 3.4vw;
+  color: #333333;
+  line-height: 5.6vw;
+  text-align: justify;
+  margin: 3vw;
+}
+.xuanji {
+  margin: 3vw;
+  font-size: 4.5vw;
+}
+.jishu {
+  margin: 3vw;
+  font-size: 3.7vw;
+  color: #999;
+}
+.title {
+  font-size: 4vw;
+  margin-top: 5vw;
+  margin-left: 2vw;
+}
+.bjtp2 {
+  width: 30vw;
+  height: 40vw;
+  border-radius: 2vw;
+}
+.look ul {
+  display: flex;
+}
+.look ul li {
+  margin-right: 3vw;
+}
+.look {
+  margin: 2vw;
+}
+.look > ul > li > p {
+  font-size: 4vw;
+  margin-top: 1vw;
+}
+.pinlun {
+  color: black;
+  font-size: 4.5vw;
+  position: absolute;
+  top: -0.08vw;
+  left: 88vw;
+}
+.jianjie {
+  position: relative;
+}
+.bottom {
+  margin-top: 20vw;
+}
+.bottom .first {
+  flex: 1;
+  background-color: white;
+  padding: 0 6.4vw 0vw 3.2vw;
+  box-sizing: border-box;
+  font-size: 3.466666666666667vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 12.8vw;
+}
+.bottom button {
+  width: 35.2vw;
+  line-height: 12.8vw;
+  background: #fce23d;
+  text-align: center;
+  font-size: 4vw;
+  font-weight: 500;
+  color: #442509;
+  outline: none;
+  border: none;
+}
+.bottom .top {
+  display: flex;
+  border-top: 1px solid gainsboro;
+  position: fixed;
+  top: 166.66vw;
+  width: 100vw;
+}

@@ -1,0 +1,76 @@
+#app {
+  width: 100vw;
+  height: 80vw;
+}
+#app h1 {
+  width: 100vw;
+  font-weight: 400;
+  text-align: center;
+  font-size: 5vw;
+}
+#app > div > input {
+  width: 70vw;
+  height: 10vw;
+  padding: 0 5vw;
+  margin: 5vw 0;
+}
+#app > div > textarea {
+  width: 73vw;
+  position: fixed;
+  border-radius: 2vw;
+  top: 169vw;
+  padding-left: 5vw;
+  padding-top: 2vw;
+  height: 5vw;
+}
+.cont{
+  height: 10vw;
+  margin-bottom: 10vw;
+
+}
+
+.cont .touxiang {
+  width: 10vw;
+  height: 10vw;
+  border-radius: 50%;
+}
+ .name{
+   margin-top: -7vw;
+   margin-left: 12vw;
+}
+.name2{
+  margin-top: 5vw;
+  margin-left: 20vw;
+}
+.cont p {
+  display: inline-block;
+}
+.cont div p:nth-of-type(1) {
+  color: black;
+}
+.cont div p:nth-of-type(2) {
+  color: black;
+}
+.cont .del {
+  float: right;
+  line-height: 16vw;
+  color: black;
+  cursor: pointer;
+}
+.send {
+  width: 20vw;
+  border: 1px solid #e6e6e6;
+  border-radius: 3vw;
+  background-color: rgba(255, 241, 49, 0.719);
+  height: 8vw;
+  font-size: 3vw;
+  color: black;
+  position: fixed;
+  top: 169vw;
+  left: 80vw;
+}
+h3 {
+  font-weight: 400;
+  color: #333;
+}
+

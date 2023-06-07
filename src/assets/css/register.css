@@ -1,0 +1,48 @@
+.logo{
+    width: 13vw;
+    height: 13vw;
+    float: left;
+}
+.login{
+    font-size: 7vw;
+    margin-left: 6vw;
+}
+.zuofloat{
+    display: flex;
+    align-items: center;
+    margin-top: 4vw;
+    margin-left: 5vw;
+}
+.fit{
+    margin-left: 10vw;
+}
+.reg{
+    margin-top: 10vw;
+}
+.btn{
+    margin-top: 10vw;
+    border-radius: 50px;
+    width: 80vw;
+    margin-left: 10vw;
+    background-color: rgba(255, 225, 32, 0.6);
+    color: black;
+    height: 10vw;
+    font-size: 5vw;
+}
+.way{
+    margin-top: 8vw;
+    margin-left: 10vw;
+    font-size: 4vw;
+}
+.login-auto1 {
+    margin-left: 5vw;
+    font-size: 4vw;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom:4vw;
+    left: 8vw;
+}
+
+
+

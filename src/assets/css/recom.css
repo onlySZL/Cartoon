@@ -1,0 +1,110 @@
+.logo {
+  width: 9vw;
+  height: 9vw;
+  position: relative;
+  top: 2vw;
+  left: 3vw;
+}
+
+.login {
+  position: relative;
+  top: -6vw;
+  left: 15vw;
+  font-size: 4vw;
+  border-radius: 3vw;
+  background-image: url(/images/img/Home/搜索.png);
+  background-size: 8vw;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-color: #f7f9fa;
+  outline: none;
+  border: none;
+  width: 50vw;
+  height: 8vw;
+  padding-left: 5vw;
+  padding-right: 8vw;
+}
+.guding{
+  width: 100vw;
+  height: 15vw;
+  position: fixed;
+  top:0;
+  left:0;
+  z-index: 1000;
+  background-color: white;
+}
+.dibu{
+  margin-top: 20vw;
+}
+.xuanran{
+  margin-top: 18vw;
+  margin-left: 2vw;
+
+}
+.zuo{
+  display: flex;
+  font-size: 4vw;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.you{
+  border: 1px solid #e6e6e6;
+  border-radius: 4vw;
+  position: absolute;
+  left: 82vw;
+  background-color: white;
+  height: 6.4vw;
+  min-width: 12.8vw;
+  font-size: 3vw;
+  color: black;
+
+}
+.zuozuo{
+  font-size: 4vw;
+  color: black;
+}
+
+.youxuan{
+  display: flex;
+  margin-left: -4vw;
+  margin-top: 3vw;
+}
+.liebiao{
+  width: 94vw;
+  margin-top: 2vw;
+}
+.qi{
+  color: rgb(113, 113, 113);
+  margin-left: 4vw;
+  font-size: 3vw;
+  text-align: center;
+  line-height: 1;
+  background-color:rgb(244, 245, 249); ;
+}
+.xuan{
+  color: rgb(113, 113, 113);
+  margin-left: 4vw;
+  font-size: 3vw;
+  text-align: center;
+  line-height: 1;
+  background-color:rgb(244, 245, 249); ;
+}
+.kuai{
+  margin-top: 2vw;
+}
+.first{
+  margin-top: 2vw;
+  font-size: 4vw;
+  color: black;
+}
+.mint-tab-item {
+  display: block;
+  padding: 3vw 0 ;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-decoration: none;
+  height: 12vw !important;
+}
+

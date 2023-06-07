@@ -1,0 +1,103 @@
+.login {
+  position: relative;
+  top: -6vw;
+  left: 15vw;
+  font-size: 4vw;
+  border-radius: 3vw;
+  background-image: url(/images/img/Home/搜索.png);
+  background-size: 8vw;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-color: #f7f9fa;
+  outline: none;
+  border: none;
+  width: 50vw;
+  height: 8vw;
+  padding-left: 5vw;
+  padding-right: 8vw;
+}
+
+.logo {
+  width: 9vw;
+  height: 9vw;
+  position: relative;
+  top: 2vw;
+  left: 3vw;
+}
+.guding {
+  width: 100vw;
+  height: 15vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: white;
+}
+.yuanzhu{
+  color: rgb(113, 113, 113);
+  font-size: 3vw;
+  line-height: 1;
+  margin-top: 2vw;
+}
+.youxuan {
+  display: flex;
+  margin-left: -4vw;
+  margin-top: 4vw;
+}
+.xuan {
+  color: rgb(113, 113, 113);
+  margin-left: 4vw;
+  font-size: 4vw;
+  text-align: center;
+  line-height: 1;
+  background-color: rgb(244, 245, 249);
+}
+.dibulist {
+  margin-top: 10vw;
+}
+.xuanze {
+  width: 95vw;
+  font-size: 5vw;
+  color: #333;
+  font-weight: bold;
+  margin-top: 10vw;
+  margin: 2vw;
+}
+.selectlist {
+  margin: 2vw;
+  border-radius: 2vw;
+  overflow: hidden;
+  margin-top: -1vw;
+  position: relative;
+}
+.bikan {
+  width: 30vw;
+  height: 40vw;
+  margin-top: 5vw;
+  border-radius: 1vw;
+}
+.fd {
+  position: absolute;
+  top: 7vw;
+  left: 33vw;
+}
+.biaoti {
+  color: black;
+  font-weight: bold;
+  font-size: 4vw;
+}
+.jieshao {
+  color: rgb(170, 170, 170);
+  font-size: 3.5vw;
+  margin-top: 5vw;
+}
+.you{
+    border: 1px solid #e6e6e6;
+    border-radius: 4vw;
+    background-color: rgba(255, 241, 49, 0.719);
+    height: 6.4vw;
+    min-width: 12.8vw;
+    font-size: 3vw;
+    margin-left: 50vw;
+    color: black;
+  }

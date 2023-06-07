@@ -1,0 +1,30 @@
+.classifylist .classify{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3vw;
+    margin-left: 3vw;
+ }  
+ .classifylist .classify li{
+     margin-right: 7vw;
+     margin-bottom: 4.5vw;
+     font-size: 4vw;
+ }
+ .classifylist .classify .all{
+     color: gold;
+ }
+.pic{
+     width: 29vw;
+     height: 41vw;
+     margin-left: 3vw;
+     margin-bottom: 3vw;
+     border-radius: 1vw;
+}
+.no{
+    float: left;
+}
+.font{
+    font-size: 3vw;
+    margin-left: 3vw;
+    margin-bottom: 3vw;
+    color: black;
+}

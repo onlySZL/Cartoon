@@ -1,0 +1,139 @@
+.classifylist .classify li {
+  margin-bottom: 12vw;
+  font-size: 4vw;
+}
+
+.classifylist {
+  margin-top: 2vw;
+  width: 15vw;
+}
+.classifylist .classify .all {
+    background: rgb(79, 96, 105);
+    color: white;
+    border-radius: 0vw 13.333333333333334vw 13.333333333333334vw 0vw;
+    padding: 1vw;
+}
+.pic {
+  width: 29vw;
+  height: 41vw;
+  margin-left: 3vw;
+  margin-bottom: 3vw;
+  border-radius: 1vw;
+}
+
+.font {
+  font-size: 3vw;
+  margin-left: 3vw;
+  margin-bottom: 3vw;
+  color: black;
+}
+
+.login {
+  position: relative;
+  top: -6vw;
+  left: 15vw;
+  font-size: 4vw;
+  border-radius: 3vw;
+  background-image: url(/images/img/Home/搜索.png);
+  background-size: 8vw;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-color: #f7f9fa;
+  outline: none;
+  border: none;
+  width: 50vw;
+  height: 8vw;
+  padding-left: 5vw;
+  padding-right: 8vw;
+}
+
+.logo {
+  width: 9vw;
+  height: 9vw;
+  position: relative;
+  top: 2vw;
+  left: 3vw;
+}
+.guding {
+  width: 100vw;
+  height: 15vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: white;
+}
+.yuanzhu {
+  color: rgb(113, 113, 113);
+  font-size: 3vw;
+  line-height: 1;
+  margin-top: 2vw;
+}
+.youxuan {
+  display: flex;
+  margin-left: -4vw;
+  margin-top: 4vw;
+}
+.xuan {
+  color: rgb(113, 113, 113);
+  margin-left: 4vw;
+  font-size: 4vw;
+  text-align: center;
+  line-height: 1;
+  background-color: rgb(244, 245, 249);
+}
+.dibulist{
+    width: 80vw;
+    font-size: 5vw;
+    color: #333;
+    font-weight: bold;
+    margin-left: 4vw;
+    
+}
+
+
+.selectlist {
+  margin: 2vw;
+  border-radius: 2vw;
+  overflow: hidden;
+  margin-top: -3vw;
+  position: relative;
+}
+.bikan {
+  width: 22vw;
+  height: 30vw;
+  margin-top: 5vw;
+  border-radius: 1vw;
+}
+.fd {
+  position: absolute;
+  top: 7vw;
+  left: 24vw;
+}
+.biaoti {
+  color: black;
+  font-weight: bold;
+  font-size: 4vw;
+}
+.jieshao {
+  color: rgb(170, 170, 170);
+  font-size: 3.5vw;
+  margin-top: 3vw;
+}
+.you {
+  border: 1px solid #e6e6e6;
+  border-radius: 4vw;
+  background-color: rgba(255, 241, 49, 0.719);
+  height: 6.4vw;
+  min-width: 12.8vw;
+  font-size: 3vw;
+  margin-left: 50vw;
+  color: black;
+}
+.topnumber {
+  display: flex;
+}
+.bjtp {
+  width: 100vw;
+  height: 57vw;
+}

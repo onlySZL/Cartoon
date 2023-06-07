@@ -1,0 +1,279 @@
+.logo {
+  width: 9vw;
+  height: 9vw;
+  position: relative;
+  top: 2vw;
+  left: 3vw;
+}
+
+.login {
+  position: relative;
+  top: -6vw;
+  left: 15vw;
+  font-size: 4vw;
+  border-radius: 3vw;
+  background-image: url(/images/img/Home/搜索.png);
+  background-size: 8vw;
+  background-repeat: no-repeat;
+  background-position: 100% 50%;
+  background-color: #f7f9fa;
+  outline: none;
+  border: none;
+  width: 50vw;
+  height: 8vw;
+  padding-left: 5vw;
+  padding-right: 8vw;
+}
+.mint-swipe-item img {
+  width: 100vw;
+  height: 100%;
+}
+.fenlei{
+  color: black;
+}
+.topnumber{
+  color: black;
+}
+
+.lunbo {
+  margin: 2vw;
+  border-radius: 2vw;
+  overflow: hidden;
+  margin-top: 15vw;
+  position: relative;
+}
+.eight {
+  width: 90vw;
+  margin: 4vw;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: -1vw;
+}
+.eight > div {
+  width: 16vw;
+  height: 10vw;
+  margin: 3vw;
+  font-size: 4vw;
+  text-align: center;
+}
+.eight > div .img {
+  margin-bottom: 4vw;
+}
+.eight > div .img img {
+  width: 10vw;
+  height: 10vw;
+  margin-top: 2vw;
+}
+.oneone {
+  width: 100vw;
+  height: 150vw;
+}
+.oooo{
+    margin-bottom: 5vw;
+}
+.bjys {
+  height: 151vw;
+  width: 96vw;
+  background: #2288a4d2;
+  position: absolute;
+  margin: 2vw;
+  border-radius: 2vw;
+  overflow: hidden;
+  margin-top: -3vw;
+  top: 2vw;
+  left: -2vw;
+  
+}
+.bjysone {
+  color: white;
+  margin-top: 5vw;
+  margin-left: 5vw;
+  font-size: 4.8vw;
+  font-weight: bold;
+}
+.twotwo {
+  display: flex;
+  margin-top: 5vw;
+  margin-left: 1vw;
+}
+.twotwo li {
+  margin-left: 5vw;
+  color: white;
+  font-size:4vw;
+}
+.trtr {
+  width: 27vw;
+  height: 37vw;
+  border-radius: 2vw;
+}
+.font {
+  color: white;
+  position: relative;
+  top: -5vw;
+  left: 10vw;
+  font-size: 3.7vw;
+}
+
+.fourfour {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5vw;
+  flex-wrap: wrap;
+}
+.hou {
+  color: white;
+  font-weight: bold;
+  font-size: 4vw;
+}
+.guanzhu{
+  margin-top: 2vw;
+  color: rgb(197, 197, 197);
+  margin-bottom: 2.5vw;
+  font-size: 3vw;
+}
+.look {
+  display: flex;
+  justify-content: space-around;
+}
+.look button {
+  width: 40%;
+  font-size: 4vw;
+  padding: 2vw 7vw;
+  opacity: 0.8;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+  user-select: text;
+  margin-top: 3vw;
+  border: none;
+ 
+}
+.guanggao {
+  margin: 2vw;
+  border-radius: 2vw;
+  overflow: hidden;
+  margin-top: -3vw;
+}
+.firday{
+  width: 100vw;
+  height: 30vw;
+}
+.dibu{
+  margin-top: 20vw;
+}
+.remen{
+  margin-top: 5vw;
+  font-weight: bold;
+  font-size: 5vw;
+  margin-bottom: 5vw;
+}
+.jinqi{
+  width: 45vw;
+  height: 55vw;
+  border-radius:2vw ;
+}
+.liebiao{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.fontt {
+  color: white;
+  position: relative;
+  top: -5vw;
+  left: 28vw;
+  font-size: 3.7vw;
+}
+.fuzhii{
+  font-size: 4.5vw;
+  font-weight: bold;
+}
+.guding{
+  width: 100vw;
+  height: 15vw;
+  position: fixed;
+  top:0;
+  left:0;
+  z-index: 1000;
+  background-color: white;
+}
+.lookk{
+  display: flex;
+  justify-content: space-around;
+}
+.lookk button {
+  width: 40%;
+  font-size: 5vw;
+  padding: 2vw 7vw;
+  opacity: 0.75;
+  color: black;
+  user-select: text;
+  margin-top: 3vw;
+  border: none;
+}
+.selectlist{
+  margin: 2vw;
+  border-radius: 2vw;
+  overflow: hidden;
+  margin-top: -1vw;
+  position: relative;
+
+}
+.xuanze{
+  width: 95vw;
+  font-size: 5vw;
+  color: #333;
+  font-weight: bold;
+  margin-top: 10vw;
+  margin: 2vw;
+}
+.bikan{
+  width: 30vw;
+  height: 40vw;
+  margin-top: 5vw;
+  border-radius:1vw ;
+}
+.yuanzhu{
+  color: rgb(113, 113, 113);
+  font-size: 3vw;
+  line-height: 1;
+  margin-top: 2vw;
+}
+.fd{
+   position: absolute;
+   top: 7vw;
+   left: 33vw;
+}
+.biaoti{
+   color: black;
+   font-weight: bold;
+   font-size: 4vw;
+}
+.jieshao{
+  color: rgb(170, 170, 170);
+  font-size: 3.5vw;
+  margin-top: 5vw;
+
+}
+.dibulist{
+  margin-top: 10vw;
+}
+.you{
+  border: 1px solid #e6e6e6;
+  border-radius: 4vw;
+  background-color: rgba(255, 241, 49, 0.719);
+  height: 6.4vw;
+  min-width: 12.8vw;
+  font-size: 3vw;
+  margin-left: 50vw;
+  color: black;
+}
+.mint-tab-item {
+  display: block;
+  padding: 3vw 0 ;
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  text-decoration: none;
+  height: 10.8vw !important;
+}

@@ -1,0 +1,103 @@
+.bj{
+    width: 100vw;
+    height: 80vw;
+}
+.user{
+    width: 26vw;
+    height: 26vw;
+    margin-top: -111vw;
+    margin-left: 5vw;
+}
+.user2{
+    width: 26vw;
+    height: 26vw;
+    margin-top: -110vw;
+    margin-left: 5vw;
+    border-radius: 50%;
+}
+.come{
+    margin-top: -40vw;
+    margin-left: 8vw;
+    font-size: 5.5vw;
+    color: white;
+}
+.boy{
+    width: 7vw;
+    height: 7vw;
+    margin-top: -69vw;
+    margin-left: 34vw;
+}
+.king{
+    width: 7vw;
+    height: 7vw;
+    margin-top: -79vw;
+    margin-left: 43vw;
+}
+.xuan{
+    color: white;
+    margin-left: -38vw;
+    font-size: 4vw;
+    text-align: center;
+    line-height: 1;
+    margin-top: -32vw;
+    background-color:rgb(65, 65, 65);
+}
+.jieshao{
+    font-size: 4vw;
+    color: white;
+    opacity: 0.7;
+    margin-top: 3vw;
+    margin-left: 8vw;
+}
+.guanzhu li{
+    font-size: 5.5vw;
+    color: white;
+    margin-right: 2.5vw;
+    margin-top: 3vw;
+    margin-left: 7vw;
+}
+.guanzhu{
+    display: flex;
+    
+}
+.ziliao{
+   color: black;
+   border: none;
+   border-radius: 5vw;
+   width: 25vw;
+   height: 12vw;
+   background-color: gold;
+   margin-top: 3vw;
+   font-size: 4vw;
+}
+.zi{
+    margin-top: -60vw;
+    margin-left: 70vw;
+}
+.card{
+    width: 7vw;
+    height: 7vw;
+    margin-top: -55vw;
+    margin-left: 74vw;
+}
+.qita{
+    width: 7vw;
+    height: 7vw;
+    margin-top: -64vw;
+    margin-left: 85vw;
+}
+.gengxin li{
+    font-size: 5.5vw;
+    color: black;
+    margin-right: 2.5vw;
+    margin-top: 43vw;
+    margin-left: 4vw;
+    font-weight: bold;
+}
+.gengxin{
+    display: flex;
+}
+.bjtp{
+    width: 100vw;
+    height: 100vw;
+}
